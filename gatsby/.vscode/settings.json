@@ -23,4 +23,21 @@
     "javascript",
     "javascriptreact"
   ],
+  "git.ignoreLimitWarning": true,
+  "spellright.language": [
+    "en"
+  ],
+  "spellright.documentTypes": [
+    "plaintext",
+    "markdown",
+    "latex",
+    "html",
+    "jade",
+    "pug",
+    "css",
+    "php",
+    "sql",
+    "js",
+    "javascript"
+  ],
 }
